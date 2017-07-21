@@ -1,0 +1,19 @@
+.container{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    div{
+        padding: 5px 10px;
+        color: grey;
+        border: 1px solid grey;
+        border-radius: 4px;
+        width:300px;
+        margin: 0 auto;
+        margin-bottom: 50px;
+        text-align: left;
+        img{
+            border-radius:50%;
+            margin-right: 15px;
+        }
+    }
+}
